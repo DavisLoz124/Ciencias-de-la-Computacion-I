@@ -1,8 +1,4 @@
-# Ciencias-de-la-Computacion-I
-UD - Carlos Andrés Sierra Virguez (Gr. 020-87)
-    Prueba 1
-    Prueba 2
-    Prueba 3
-    Prueba 4
-    Prueba 5 
-JAJAJAJA
+# Ciencias-de-la-Computacion-I  
+Carlos Andrés Sierra Virguez (Gr. 020-87)  
+Universidad Distrital Francisco Jose de Caldas  
+Lozano Moreno Davinson Sfrey - 20261020093
